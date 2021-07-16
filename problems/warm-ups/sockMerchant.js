@@ -11,7 +11,7 @@
 **
 **
 *****************************************************************************/
-function sockMerchant(n, ar) {
+function sockMerchant(n, ar) { 
 
     let pairs = 0;
    

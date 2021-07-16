@@ -7,8 +7,7 @@
 **    GitHub:     https://github.com/cojohen
 ** 
 *****************************************************************************/
-
-function jumpingOnClouds(c) {
+function jumpingOnClouds(c) { 
     
     let jumps = 0;
     let i = 0;

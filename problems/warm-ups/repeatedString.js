@@ -7,8 +7,7 @@
 **    GitHub:     https://github.com/cojohen
 ** 
 *****************************************************************************/
-
-function repeatedString(s, n) {
+function repeatedString(s, n) { 
 
     let countAinS = 0;
     let countRemainder = 0;

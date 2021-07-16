@@ -7,7 +7,6 @@
 **    GitHub:     https://github.com/cojohen
 ** 
 *****************************************************************************/
-
 function countingValleys(n, path){
 
     let valleys = 0;
