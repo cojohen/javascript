@@ -65,13 +65,13 @@ function checkMagazine(magazine, note) {
 }
 /**
  *  Creates values and tests function
- * 
-    const mag1  = ['two', 'times', 'three', 'is', 'not', 'four'];
+ 
+    const mag1  = ['two', 'times', 'two', 'is', 'not', 'four'];
     const mag2  = ['ive', 'got', 'a', 'lovely', 'bunch', 'of', 'coconuts'];
 
     const note1 = ['two', 'times', 'two', 'is', 'four'];
     const note2 = ['ive', 'got', 'some', 'coconuts'];
 
-    console.log(checkMagazine(mag1, note1));
-    console.log(checkMagazine(mag2, note2));
+    checkMagazine(mag1, note1);
+    checkMagazine(mag2, note2);
 */
