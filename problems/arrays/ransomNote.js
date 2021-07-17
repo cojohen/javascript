@@ -9,7 +9,7 @@
 **    Summary:    
 **      The function checkMagazine takes two string array parameters and 
 **      determines if the second array can be produced using the elements 
-**      of the first array without reusing any elements more than once.
+**      of the first array without reusing any elements.
 **
 **      The problem is solved in two parts by first building a hash table
 **      of the first array and then searching the table for the elements of 
